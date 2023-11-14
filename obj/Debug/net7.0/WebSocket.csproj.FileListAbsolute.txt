@@ -1,0 +1,14 @@
+C:\Users\Administrateur\Desktop\projets\WebSocket\bin\Debug\net7.0\WebSocket.exe
+C:\Users\Administrateur\Desktop\projets\WebSocket\bin\Debug\net7.0\WebSocket.deps.json
+C:\Users\Administrateur\Desktop\projets\WebSocket\bin\Debug\net7.0\WebSocket.runtimeconfig.json
+C:\Users\Administrateur\Desktop\projets\WebSocket\bin\Debug\net7.0\WebSocket.dll
+C:\Users\Administrateur\Desktop\projets\WebSocket\bin\Debug\net7.0\WebSocket.pdb
+C:\Users\Administrateur\Desktop\projets\WebSocket\obj\Debug\net7.0\WebSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrateur\Desktop\projets\WebSocket\obj\Debug\net7.0\WebSocket.AssemblyInfoInputs.cache
+C:\Users\Administrateur\Desktop\projets\WebSocket\obj\Debug\net7.0\WebSocket.AssemblyInfo.cs
+C:\Users\Administrateur\Desktop\projets\WebSocket\obj\Debug\net7.0\WebSocket.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\projets\WebSocket\obj\Debug\net7.0\WebSocket.dll
+C:\Users\Administrateur\Desktop\projets\WebSocket\obj\Debug\net7.0\refint\WebSocket.dll
+C:\Users\Administrateur\Desktop\projets\WebSocket\obj\Debug\net7.0\WebSocket.pdb
+C:\Users\Administrateur\Desktop\projets\WebSocket\obj\Debug\net7.0\WebSocket.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\projets\WebSocket\obj\Debug\net7.0\ref\WebSocket.dll
